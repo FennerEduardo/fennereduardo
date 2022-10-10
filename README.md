@@ -1,5 +1,8 @@
 
-**FennerEduardo/fennereduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub Profile**  ✨ _I' am Web Developer_ ✨ I am very happy that you are here, you can know me better
+
+- 🔭 I’m currently working on Coresis and Litigius.
+- 🌱 I’m currently learning more about Laravel, NodeJs, Angular, Ionic and Vue.
 <!--
 Here are some ideas to get you started:
 
