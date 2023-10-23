@@ -28,7 +28,7 @@ I have a solid background in working with Laravel, Drupal, JavaScript, Ionic, An
 - Confidence
 
 ## Get in Touch
-📫 You can reach out to me through my email [example@example.com](mailto:example@example.com). Let's connect and discuss interesting ideas!
+📫 You can reach out to me through my email [fennereduardo@gmail.com](mailto:fennereduardo@gmail.com). Let's connect and discuss interesting ideas!
 
 ## Fun Fact
 ⚡ Did you know that I love to solve complex puzzles in my free time? It's my way of keeping the problem-solving skills sharp!
