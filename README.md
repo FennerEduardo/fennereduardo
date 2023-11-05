@@ -6,6 +6,8 @@ I'm thrilled that you've stopped by! Allow me to introduce myself and my work.
 
 ## About Me
 I have a solid background in working with Laravel, Drupal, JavaScript, Ionic, Angular, and Vue.js. Currently, I'm expanding my horizons and delving into the realms of C#, Java, and Python. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fennereduardo)
+
 
 ## Work
 🔭 I’m currently working on two exciting projects: 
