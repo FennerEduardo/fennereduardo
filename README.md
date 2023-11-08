@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-✨ _I'm a Web Developer with a passion for building innovative solutions._ ✨ 
+✨ _I'm a Full stack Developer with a passion for building innovative solutions._ ✨ 
 
 I'm thrilled that you've stopped by! Allow me to introduce myself and my work.
 
