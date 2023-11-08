@@ -14,9 +14,10 @@ I have a solid background in working with Laravel, Drupal, JavaScript, Ionic, An
 - AWFY: A cutting-edge web application for data, employees an ddocuments analysis, management and visualization.
 - Litigius: A comprehensive legal management system for law firms.
 
-## Resume
+## Summary
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fennereduardo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fennereduardo&layout=compact)](https://github.com/fennereduardo/github-readme-stats)
+
 
 
 ## Learning
