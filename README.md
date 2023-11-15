@@ -11,7 +11,7 @@ I have a solid background in working with Laravel, Drupal, JavaScript, Ionic, An
 
 ## Work
 🔭 I’m currently working on two exciting projects: 
-- AWFY: A cutting-edge web application for data, employees an ddocuments analysis, management and visualization.
+- AWFY: A cutting-edge web application for data, employees an documents analysis, management and visualization.
 - Litigius: A comprehensive legal management system for law firms.
 
 ## Summary
