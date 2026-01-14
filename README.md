@@ -19,7 +19,7 @@ I have a solid background in working with Laravel, Drupal, JavaScript, Ionic, An
 [See all my repositories](https://github.com/fennereduardo?tab=repositories)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fennereduardo&layout=compact)](https://github.com/fennereduardo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fennereduardo&layout=compact&theme=tokyonight&show_icons=true&langs_count=6)](https://github.com/fennereduardo)
 
 
 
