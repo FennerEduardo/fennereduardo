@@ -194,13 +194,26 @@ Microservices • Modular Monoliths • CQRS • REST APIs • MCP
 * DevOps Automation
 
 ---
-
 # GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FennerEduardo&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=FennerEduardo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FennerEduardo&layout=compact&hide_border=true&theme=transparent" />
+<img
+ width="49%"
+ src="https://streak-stats.demolab.com?user=FennerEduardo&theme=github-dark-blue&hide_border=true"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FennerEduardo&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
